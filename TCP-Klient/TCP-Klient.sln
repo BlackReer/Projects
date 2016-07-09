@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP-Klient", "TCP-Klient\TCP-Klient.csproj", "{D8F195D5-2959-4066-BC27-60FA926D7104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F195D5-2959-4066-BC27-60FA926D7104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F195D5-2959-4066-BC27-60FA926D7104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F195D5-2959-4066-BC27-60FA926D7104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F195D5-2959-4066-BC27-60FA926D7104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
